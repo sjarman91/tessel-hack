@@ -1,2 +1,3 @@
 var http = require('http');
-var slackbot = require('slackbots');
+var slack = require('slack-incoming-webhook');
+
