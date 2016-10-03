@@ -1,0 +1,14 @@
+{
+  "name": "tessel-hack",
+  "version": "1.0.0",
+  "description": "listening to the fullstack community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tessel"
+  ],
+  "author": "shane, jackson, brian, james",
+  "license": "ISC"
+}
