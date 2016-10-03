@@ -10,5 +10,8 @@
     "tessel"
   ],
   "author": "shane, jackson, brian, james",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.2"
+  }
 }
